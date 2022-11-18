@@ -1,0 +1,8 @@
+prefix=/home/foscar/FMTC_2022/devel
+
+Name: yolov7_ros
+Description: Description of yolov7_ros
+Version: 0.0.0
+Cflags: -I/home/foscar/FMTC_2022/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
